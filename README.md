@@ -1,2 +1,2 @@
 # FSL_UBOOT
-Uboot bootloader for Fast System Launch
+Fast System Launch
